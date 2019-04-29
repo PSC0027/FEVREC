@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Set"
+        android:icon="@drawable/gear_106450"
+        android:title="@string/title_Set" />
+
+    <item
+        android:id="@+id/navigation_Rpm"
+        android:icon="@drawable/speedometer_79628"
+        android:title="@string/title_Rpm" />
+
+    <item
+        android:id="@+id/navigation_FFT"
+        android:icon="@drawable/audiowave_audio_4642"
+        android:title="@string/title_FFT" />
+
+</menu>
